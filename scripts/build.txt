@@ -1,0 +1,4 @@
+# 构建
+python setup.py sdist bdist_wheel
+# 安装，从实际生成的文件中选择
+pip install dist/piptree-0.1.0.tar.gz

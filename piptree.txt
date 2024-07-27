@@ -1,0 +1,9 @@
+piptree==0.1.0
+  - pip==24.0
+requests==2.32.3
+  - certifi==2024.6.2
+  - charset-normalizer==3.3.2
+  - idna==3.7
+  - urllib3==2.2.1
+setuptools==68.2.0
+wheel==0.41.2

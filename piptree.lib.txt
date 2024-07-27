@@ -1,0 +1,122 @@
+{
+    typing-extensions 4.12.2 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        typer 0.12.3 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        uvicorn 0.30.1 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        rich 13.7.1 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        pydantic-core 2.18.4 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        annotated-types 0.7.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        pydantic 2.7.4 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        starlette 0.37.2 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        anyio 4.4.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    idna 3.7 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        email-validator 2.1.1 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        requests 2.32.3 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        anyio 4.4.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    sniffio 1.3.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        anyio 4.4.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    exceptiongroup 1.2.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        anyio 4.4.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    colorama 0.4.6 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        click 8.1.7 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    dnspython 2.6.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        email-validator 2.1.1 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    starlette 0.37.2 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    pydantic 2.7.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    fastapi-cli 0.0.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    jinja2 3.1.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    python-multipart 0.0.9 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    ujson 5.10.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    orjson 3.10.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    email-validator 2.1.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    uvicorn 0.30.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi 0.111.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    typer 0.12.3 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        fastapi-cli 0.0.4 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    certifi 2024.6.2 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        httpcore 1.0.5 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        requests 2.32.3 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    h11 0.14.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        uvicorn 0.30.1 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        httpcore 1.0.5 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    anyio 4.4.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        watchfiles 0.22.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        starlette 0.37.2 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    httpcore 1.0.5 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        httpx 0.27.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    MarkupSafe 2.1.5 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        jinja2 3.1.4 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    mdurl 0.1.2 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        markdown-it-py 3.0.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    pip 24.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        piptree 0.1.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    packaging 24.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        piptree 0.1.0 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    annotated-types 0.7.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        pydantic 2.7.4 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    pydantic-core 2.18.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        pydantic 2.7.4 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    charset-normalizer 3.3.2 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        requests 2.32.3 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    urllib3 2.2.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        requests 2.32.3 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    markdown-it-py 3.0.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        rich 13.7.1 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    pygments 2.18.0 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        rich 13.7.1 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    click 8.1.7 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        uvicorn 0.30.1 (f:\projects dev\python\piptree\.venv\lib\site-packages),
+        typer 0.12.3 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    shellingham 1.5.4 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        typer 0.12.3 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    },
+    rich 13.7.1 (f:\projects dev\python\piptree\.venv\lib\site-packages): {
+        typer 0.12.3 (f:\projects dev\python\piptree\.venv\lib\site-packages)
+    }
+}

@@ -4,7 +4,7 @@ import argparse
 from src.piptree import *
 
 __name__ = "piptree2"
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 try:
     ModuleNotFoundError

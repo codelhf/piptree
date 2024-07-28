@@ -12,7 +12,7 @@ setup(
     include_package_data=True,
     entry_points={
         'console_scripts': [
-            'piptree = src.piptree.cli:main',
+            'piptree = src.cli:main',
         ]
     },
     install_requires=[
